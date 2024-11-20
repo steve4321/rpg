@@ -18,9 +18,9 @@ MonoBehaviour:
   editorHelpLanguageTexts: {fileID: 0}
   section: 7
   subSection: 5
-  tabIndex: 2
-  scrollY: 2640
-  foldoutLimit: Status Settings
+  tabIndex: -1
+  scrollY: 4620
+  foldoutLimit: Battle Settings
   helpDrag: 220
   subSectionDrag: 250
   tabListDrag: 250
