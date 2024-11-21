@@ -16,10 +16,10 @@ MonoBehaviour:
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 3
-  subSection: 9
-  tabIndex: 3
-  scrollY: 5840
+  section: 5
+  subSection: 0
+  tabIndex: 0
+  scrollY: 0
   foldoutLimit: 
   helpDrag: 220
   subSectionDrag: 250
@@ -36,6 +36,7 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
+  - {fileID: 11400000, guid: ca02388cfa3b7154aba7aafdd7033ff7, type: 2}
   - {fileID: 11400000, guid: cadba1870aae83247a9b9357e155677c, type: 2}
   - {fileID: 11400000, guid: ba95cecfa4d3ae0468de1d09a0547b1e, type: 2}
   - {fileID: 11400000, guid: b9ae653c97610db448e589d3fb13db20, type: 2}
@@ -64,6 +65,7 @@ MonoBehaviour:
   - ui
   - battleScene
   - showWeapon
+  - counter
   variablesScene: []
   variablesPrefab: []
   foldoutKeys: []
