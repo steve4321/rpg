@@ -16,11 +16,11 @@ MonoBehaviour:
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 7
-  subSection: 5
-  tabIndex: 0
-  scrollY: 2760
-  foldoutLimit: Inventory & Equipment
+  section: 9
+  subSection: 0
+  tabIndex: -1
+  scrollY: 120
+  foldoutLimit: 
   helpDrag: 220
   subSectionDrag: 250
   tabListDrag: 250
@@ -36,6 +36,7 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
+  - {fileID: 11400000, guid: cadba1870aae83247a9b9357e155677c, type: 2}
   - {fileID: 11400000, guid: ba95cecfa4d3ae0468de1d09a0547b1e, type: 2}
   - {fileID: 11400000, guid: b9ae653c97610db448e589d3fb13db20, type: 2}
   - {fileID: 11400000, guid: 9c1ae4f85622fb149b7402b5418b7ee6, type: 2}
@@ -50,7 +51,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a0366063389a63e45bf4cae2bc0cc5d4, type: 2}
   - {fileID: 11400000, guid: 89b5c241a7f1b03408d0522a44c8ee06, type: 2}
   - {fileID: 11400000, guid: b6ebb1355ed5be44084f5451b68e9910, type: 2}
-  - {fileID: 11400000, guid: cadba1870aae83247a9b9357e155677c, type: 2}
   dialogueImportSettings:
     name: 
     byteData: 
